@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Repositorio GITHUB NOel SOto Aguirregabiria
-![Imagen de Portada](url_de_la_imagen)
+# Repositorio GITHUB Noel Soto Aguirregabiria
+![Imagen de Portada](Recursos/img/robot.jpg)
 ## CV
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Experiencia Academica
