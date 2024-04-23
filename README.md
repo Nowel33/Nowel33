@@ -24,7 +24,7 @@ Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Proyectos
 Instrucciones para instalar y configurar el proyecto.
 ## Linkedin
-[Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.](https://www.linkedin.com/in/noelsotoaguirregabiria/)
+[Mi Linkedin.](https://www.linkedin.com/in/noelsotoaguirregabiria/)
 ## Contribución
 Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
 ## Licencia
