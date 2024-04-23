@@ -23,8 +23,8 @@ Breve descripción del proyecto, objetivos y funcionalidades principales.
 - Característica 3
 ## Proyectos
 Instrucciones para instalar y configurar el proyecto.
-## Uso
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
+## Linkedin
+[Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.](https://www.linkedin.com/in/noelsotoaguirregabiria/)
 ## Contribución
 Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
 ## Licencia
