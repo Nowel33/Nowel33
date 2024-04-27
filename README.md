@@ -25,7 +25,7 @@ Breve descripción del proyecto, objetivos y funcionalidades principales.
 Instrucciones para instalar y configurar el proyecto.
 ## Linkedin
 [Mi Linkedin.](https://www.linkedin.com/in/noelsotoaguirregabiria/)
-## Contribución
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
+## RetoGit
+[Enlace para ver el repositorio del reogit.](https://github.com/Nowel33/retogit)
 ## Licencia
 Licencia bajo la cual se distribuye el proyecto.
